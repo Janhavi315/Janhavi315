@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Janhavi Patil! 👋
 
-<!--
-**Janhavi315/Janhavi315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Computer Engineering Student  
+💻 Aspiring Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Pursuing B.E. in Computer Engineering.
+- 💻 Interested in Software Development, Web Development, and Data Science.
+- 🌱 Learning React.js, Node.js, Data Structures & Algorithms, and Machine Learning.
+- ☁️ Exploring AWS, Generative AI, and Cloud Computing.
+- 🎯 Goal: To become a Software Engineer and build useful real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** C, Python, JavaScript, HTML, CSS
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **Data & Analytics:** Pandas, NumPy, Power BI
+- **Tools:** GitHub, VS Code, AWS
+
+## Featured Projects
+- 🎬 **CineMax:** Movie-related frontend web application; backend in progress.
+- ☁️ **Cloud Storage Website:** Full-stack file storage and authentication project.
+- 🧴 **Skin-Lesion Segmentation & Classification:** Educational ML/DL image analysis project.
+- 🍎 **Fruit Ripening Detection System:** Machine learning project.
+
+## Connect With Me
+- GitHub: https://github.com/Janhavi315
+- LinkedIn: https://www.linkedin.com/in/janhavipatil-116578252/
+
+⭐ Thanks for visiting my profile!
